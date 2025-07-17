@@ -97,5 +97,8 @@ Financial strategy (payment partnerships, pricing nudges)
 
 Customer retention (identify VIPs, personalize offers)
 
-So what the Dashboard look like. ![Alt text] ( )
+Screenshots/ Demos:
+
+So what the Dashboard look like: ![Alt text](https://github.com/mdsajidhussain0786/OLA-DASHBOARD/blame/e00d53a54a22bb934ee4c78a8739730f23f2b3dd/OLA.pbit )
+
 Example:![Dashboard Preview](https://github.com/mdsajidhussain0786/OLA-DASHBOARD/blob/1aaa77e8fd3c0e49bf7faa6d022151a116072aca/Snapshot%20of%20the%20OLA%20Dashboard.png)
